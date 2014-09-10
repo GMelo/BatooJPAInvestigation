@@ -1,4 +1,4 @@
 BatooJPAInvestigation
 =====================
 
-Repository with Tests to investigate batoo 
+Repository with Tests to investigate batoo JPA
